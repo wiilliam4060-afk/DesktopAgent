@@ -1,0 +1,10 @@
+system:
+  screen_w: 2560
+  screen_h: 1440
+  fps: 60
+
+agent:
+  name: "小橙"
+  color: "#FF8C00"
+  line_thickness: 7
+  base_height: 110.0
